@@ -22,7 +22,7 @@ There are two folders named "_combined controllers_" and "_separate controllers_
 
 **PRECISION**:
 
-The robot's barely moving when PWM signal decreases below 50. Therefore, the precise goal position was not achieved, i.e., the robot stopped before the defined goal position.
+The robot's barely moving when the PWM signal decreases below 50. Therefore, the precise goal position is never achieved, i.e., the robot stops before the defined goal position.
 
 ![image](https://user-images.githubusercontent.com/107303057/173319599-d0771f52-99ec-4d03-a8fd-f8aa33e27190.png)
 ![image](https://user-images.githubusercontent.com/107303057/173319840-52266414-b262-4d28-ac9d-6598f60a322d.png)
