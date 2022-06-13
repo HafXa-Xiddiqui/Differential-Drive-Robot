@@ -20,7 +20,7 @@ For the feedback part, the gyro and encoders are used to provide the yaw and cur
 
 There are two folders named "_combined controllers_" and "_separate controllers_." The first folder contains the code for the separate testing for each controller, i.e., forward controller and orientation controller. The second folder contains the code in which, after initial testing, both controllers were combined and were working together. 
 
-**PRECISION**
+**PRECISION**:
 
 The robot's barely moving when PWM signal decreases below 50. Therefore, the precise goal position was not achieved, i.e., the robot stopped before the defined goal position.
 
