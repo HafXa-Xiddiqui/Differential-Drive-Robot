@@ -16,4 +16,4 @@ For the feedback part, the gyro and encoders are used to provide the yaw and cur
 
 **THE CODE**:
 
-There are two folders named "combined controller" and "separate controllers." The first folder contains the code for the separate testing for each controller, i.e., forward controller and orientation controller. The second folder contains the code in which, after initial testing, both controllers were combined and were working together. 
+There are two folders named "_combined controllers_" and "_separate controllers_." The first folder contains the code for the separate testing for each controller, i.e., forward controller and orientation controller. The second folder contains the code in which, after initial testing, both controllers were combined and were working together. 
